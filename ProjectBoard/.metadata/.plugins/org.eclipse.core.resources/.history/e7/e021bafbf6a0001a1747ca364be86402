@@ -1,0 +1,5 @@
+package com.projectboard.service;
+
+public class ProjectTaskController {
+
+}
